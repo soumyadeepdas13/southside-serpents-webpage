@@ -51,15 +51,15 @@ This website is a **fan-made web experience** inspired by the *Riverdale* univer
 
 <img width="780" height="379" alt="image" src="https://github.com/user-attachments/assets/3da80651-56fb-4e46-a633-e2a4f3059022" />
 
---
+---
 
 <img width="735" height="377" alt="image" src="https://github.com/user-attachments/assets/d7cdac79-2a04-4cfc-8d32-7b3f77cf9295" />
 
---
+---
 
 <img width="725" height="364" alt="image" src="https://github.com/user-attachments/assets/e0bf60b6-2af2-4caf-8b9e-1ae9c2e22853" />
 
---
+---
 
 ![WhatsApp Image 2025-12-02 at 18 50 50_de63d88c](https://github.com/user-attachments/assets/96f2b692-2ef2-4039-b3ad-0de96a665d51)
 <img width="780" height="430" alt="image" src="https://github.com/user-attachments/assets/0ddf3568-f0a9-409f-9c1e-bdcf1bf37040" />
